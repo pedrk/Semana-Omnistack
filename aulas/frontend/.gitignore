@@ -4,8 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-.yarn
 node_modules
+.yarn
 # testing
 /coverage
 
