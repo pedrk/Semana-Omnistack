@@ -15,7 +15,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "intl": "^1.2.5",
-    "knex": "^0.20.13",
+    "knex": "^2.4.0",
     "react-icons": "^3.9.0",
     "react-router-dom": "^5.1.2",
     "reduce": "^1.0.2",
